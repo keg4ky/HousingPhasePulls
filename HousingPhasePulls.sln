@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "HousingPhasePulls", "HousingPhasePulls\HousingPhasePulls.dtproj", "{BE407D21-E740-475E-904D-007480A8DB3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE407D21-E740-475E-904D-007480A8DB3B}.Development|Default.ActiveCfg = Development
+		{BE407D21-E740-475E-904D-007480A8DB3B}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F0869EF-8EFA-4E3E-9F45-73551EC44ECA}
+	EndGlobalSection
+EndGlobal
